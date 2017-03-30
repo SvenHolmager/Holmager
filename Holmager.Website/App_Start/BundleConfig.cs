@@ -26,6 +26,11 @@ namespace Holmager.Website
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+
+            //bundles.Add(new ScriptBundle("~/bundles/banan").Include(
+            //        "~/Scripts/banan1.js", 
+            //        "~/Scripts/banan2.js"));
         }
     }
 }

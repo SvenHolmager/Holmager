@@ -22,3 +22,15 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.header-img {
+    background-image: url(../Images/eggs.jpg);
+    width: auto;
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.headertext {
+    color: white!important;
+}
