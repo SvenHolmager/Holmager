@@ -34,3 +34,7 @@ textarea {
 .headertext {
     color: white!important;
 }
+
+footer p {
+    text-align: none;
+}
